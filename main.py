@@ -1,5 +1,6 @@
 from flask import Flask
 
+
 # application,main(last line) function only one in a file is entrance of an application
 hungry = Flask(__name__)
 
